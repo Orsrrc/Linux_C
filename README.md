@@ -1,2 +1,2 @@
 # Linux_C_Item
-this is my unix C notebook 
+this is my CItem base on Linux operator system 
