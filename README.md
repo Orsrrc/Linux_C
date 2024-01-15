@@ -1,2 +1,2 @@
 # Linux_C_Item
-One for storing Linux_ C Warehouse of the project
+this is my unix C notebook 
