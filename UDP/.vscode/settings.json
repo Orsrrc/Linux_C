@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "generatepassword.h": "c",
+        "types.h": "c",
+        "socket.h": "c",
+        "in.h": "c"
+    }
+}
