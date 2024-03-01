@@ -9,7 +9,9 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I", "D:\\Qt\\6.6.1\\msvc2019_64\\bin",
+                "-I", "D:\\Qt\\6.6.1\\mingw_64\\bin"
             ],
             "options": {
                 "cwd": "${fileDirname}"
